@@ -1,0 +1,6 @@
+{
+  "latest_version": "3.2",
+  "download_url": "https://github.com/yitzircukpc-dotcom/Contact-update/releases/download/v3.2/RCUK%20Contact%20and%20SMS%20Suite%20Setup.exe",
+  "sha256": "",
+  "notes": "First release with auto-update. Fixed VCF export line endings and contacts missing a name. Added phone number and name formatting tools."
+}
