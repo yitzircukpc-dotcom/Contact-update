@@ -1,6 +1,6 @@
 {
-  "latest_version": "3.3",
-  "download_url": "https://github.com/yitzircukpc-dotcom/Contact-update/releases/download/V3.3/RCUK.Contact.and.SMS.Suite.Setup.v3.3.exe",
-  "sha256": "8e481effb0dffc7520ccc5303acd8fea24e675a671dbae182b4e21aa13a0e049",
-  "notes": "First release with auto-update. Fixed VCF export line endings and contacts missing a name. Added phone number and name formatting tools."
+  "latest_version": "3.4",
+  "download_url": "https://github.com/yitzircukpc-dotcom/Contact-update/releases/download/v3.4/RCUK.Contact.and.SMS.Suite.Setup.v3.4.exe",
+  "sha256": "ec25026e39b8264cd8e1fca8288efc34b6bd8beb99f0a7de4b81f25579aac39a",
+  "notes": "Added Export for Sonim (XML or CSV) to SMS export, a Check for updates option in the More menu, a Cancel button during imports, keyboard shortcuts, and bulk contact select/delete."
 }
