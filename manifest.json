@@ -1,5 +1,5 @@
 {
-  "latest_version": "3.4",
+  "latest_version": "3.44",
   "download_url": "https://github.com/yitzircukpc-dotcom/Contact-update/releases/download/v3.4/RCUK.Contact.and.SMS.Suite.Setup.v3.4.exe",
   "sha256": "ec25026e39b8264cd8e1fca8288efc34b6bd8beb99f0a7de4b81f25579aac39a",
   "notes": "Added Export for Sonim (XML or CSV) to SMS export, a Check for updates option in the More menu, a Cancel button during imports, keyboard shortcuts, and bulk contact select/delete."
