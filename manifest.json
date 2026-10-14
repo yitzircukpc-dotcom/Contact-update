@@ -1,6 +1,6 @@
 {
-  "latest_version": "3.4",
-  "download_url": "https://github.com/yitzircukpc-dotcom/Contact-update/releases/download/v3.4/RCUK.Contact.and.SMS.Suite.Setup.v3.4.exe",
-  "sha256": "ec25026e39b8264cd8e1fca8288efc34b6bd8beb99f0a7de4b81f25579aac39a",
-  "notes": "Added Export for Sonim (XML or CSV) to SMS export, a Check for updates option in the More menu, a Cancel button during imports, keyboard shortcuts, and bulk contact select/delete."
+  "latest_version": "3.5",
+  "download_url": "https://github.com/yitzircukpc-dotcom/Contact-update/releases/download/v3.5/RCUK.Contact.and.SMS.Suite.Setup.v3.5.exe",
+  "sha256": "d4309cd8e6d09dd43f271500d5d25305662f5e1c34e1978c36d98b8c251bf60c",
+  "notes": "- Convert, Merge, De-duplicate and Health check now share one loaded\n  contacts list instead of four separate ones - add a file from any of\n  the four tabs and the other three see it immediately too.\n- Fixed: the De-duplicate tab went blank with no explanation once every\n  duplicate had been merged. It now says plainly that the contacts are\n  still loaded, with the count, and points at Export."
 }
